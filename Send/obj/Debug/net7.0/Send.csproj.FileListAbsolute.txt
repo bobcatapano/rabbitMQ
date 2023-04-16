@@ -1,0 +1,17 @@
+/home/rob/rabbitmqprojects/Send/bin/Debug/net7.0/Send
+/home/rob/rabbitmqprojects/Send/bin/Debug/net7.0/Send.deps.json
+/home/rob/rabbitmqprojects/Send/bin/Debug/net7.0/Send.runtimeconfig.json
+/home/rob/rabbitmqprojects/Send/bin/Debug/net7.0/Send.dll
+/home/rob/rabbitmqprojects/Send/bin/Debug/net7.0/Send.pdb
+/home/rob/rabbitmqprojects/Send/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.csproj.AssemblyReference.cache
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.AssemblyInfoInputs.cache
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.AssemblyInfo.cs
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.csproj.CoreCompileInputs.cache
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.csproj.CopyComplete
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.dll
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/refint/Send.dll
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.pdb
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/Send.genruntimeconfig.cache
+/home/rob/rabbitmqprojects/Send/obj/Debug/net7.0/ref/Send.dll
