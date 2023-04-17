@@ -1,0 +1,2 @@
+# RabbitMQ
+dotnet run
